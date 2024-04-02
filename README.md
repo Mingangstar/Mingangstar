@@ -3,7 +3,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMingangstar&count_bg=%23FAFF17&title_bg=%23FAFF17&icon=github.svg&icon_color=%23FFFFFF&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![Mingangstar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mingangstar&show_icons=true&theme=radical)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rud3)](https://solved.ac/rud3vk/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rud3vk)](https://solved.ac/rud3vk/)
 # 💪Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
