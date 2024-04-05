@@ -27,7 +27,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minkang621@gmail.com)](mailto:minkang621@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:asz152638@naver.com)](mailto:asz152638@naver.com)
 
-img src="https://github.com/Mingangstar/Mingangstar/blob/output/github-snake-dark.svg" width="100%">
+<img src="https://github.com/Mingangstar/Mingangstar/blob/output/github-snake-dark.svg" width="100%">
 
 <!--
 **Mingangstar/Mingangstar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
